@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Github",
+    "icon": "fab fa-github",
+    "url": "https://github.com/BelischAseva"
+  },
+  {
+    "text": "Instagram",
+    "icon": "fab fa-instagram",
+    "url": "https://www.instagram.com/hottieumwtissues/"
+  },
+  {
+    "text": "Website",
+    "icon": "fa fa-globe",
+    "url": "https://klaxxon.com.tr"
+  },
+  {
+    "text": "Discord",
+    "icon": "fab fa-discord",
+    "url": "https://discord.gg/klaxxon"
+  }
+]
